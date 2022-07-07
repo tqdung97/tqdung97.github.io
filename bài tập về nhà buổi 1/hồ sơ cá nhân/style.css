@@ -1,0 +1,118 @@
+*{
+    box-sizing:border-box ;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    font-size: 60px;
+    margin-top: 40px;
+    text-align: center;
+    text-decoration: underline;
+}
+h1:hover{
+    color: brown;
+    opacity:10 ;
+    
+}
+.top{
+    background-color: yellow;
+    margin-top: 50px;
+    width: 100%;
+    height: 40%;
+    display: flex;
+    border-radius: 200px;
+}
+#photo{
+    width: 300px;
+    border-radius: 180%;
+
+}
+#anh1{
+    width: 300px;
+    height: 300px;
+    border-radius:180% ;
+}
+#infomation{
+    width: 83%;
+  height: 200px;
+  margin-top: 40px;
+  margin-left:60px;
+  margin-bottom: 20px;
+  font-size:40px ;
+}
+.like{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#like1{
+    text-decoration: underline;
+    font-size: 30px;
+}
+#like2{
+    margin-left: 20%;
+    margin-right: 20%;
+    display: block;
+    background-color:greenyellow;
+    text-align:  center;
+    font-size:50px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius:10px ;
+}
+#like2:hover{
+    color: blueviolet;
+    opacity: 20;
+}
+.top2{
+    margin-top: auto;
+    padding-top: 20px ;
+    padding-bottom: 20px;
+
+}
+#anh2{
+width: 100%;
+
+}
+#a{
+    border-radius:50px ;
+    width:100%;
+    height: 500px;
+}
+#b{
+margin:20px 35% 20px 35% ;
+font-size:40px ;
+}
+#lyric{
+    font-size: 24px; 
+      text-align:center;
+   text-transform:none ;
+}
+#class{
+    margin-top: 50px;
+    text-transform: capitalize;
+}
+.topidol{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+#e{
+    font-size: 30px;
+}
+#idol{
+    width: 380px;; 
+    height:380px; 
+    margin-right:15px;
+    float: left;
+}
+#content{
+    font-size:40px ;
+}
+.top4{
+    font-size: 50px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}

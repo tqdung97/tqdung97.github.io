@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1 {
+    margin: 30px 20% 20px 20%;
+    display: block;
+    border: 1px solid black;
+}
+
+.a {
+   margin-left: 40%;
+   background-color: aquamarine;
+}
+.b{
+    background-color: brown;
+    font-weight: 600;
+}
